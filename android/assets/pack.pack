@@ -1,0 +1,94 @@
+
+pack.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Background
+  rotate: false
+  xy: 1, 147
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+BackgroundPlayState
+  rotate: false
+  xy: 483, 147
+  size: 480, 800
+  orig: 480, 800
+  offset: 0, 0
+  index: -1
+BlackHearth
+  rotate: false
+  xy: 1, 95
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Hearth
+  rotate: false
+  xy: 965, 897
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+LeftArrow
+  rotate: false
+  xy: 1, 43
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PauseButton
+  rotate: false
+  xy: 53, 95
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+RightArrow
+  rotate: false
+  xy: 965, 845
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Green
+  rotate: false
+  xy: 1, 1
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Red
+  rotate: false
+  xy: 53, 53
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+Yellow
+  rotate: false
+  xy: 105, 105
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+
+pack2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Icon
+  rotate: false
+  xy: 1, 403
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+FontSheet
+  rotate: false
+  xy: 1, 1
+  size: 250, 400
+  orig: 250, 400
+  offset: 0, 0
+  index: -1
